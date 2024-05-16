@@ -1,0 +1,250 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+"Language: vi\n"
+"Last-Translator: alextuldi - From OpenWrt forum\n"
+
+msgid "Preferred LTE bands"
+msgstr "Các băng tần LTE ưa thích"
+
+msgid "Preferred 5G SA bands"
+msgstr "Ưu tiên băng tần 5G SA"
+
+msgid "Preferred 5G NSA bands"
+msgstr "Ưu tiên băng tần 5G NSA"
+
+msgid "Currently set LTE bands"
+msgstr "Các băng tần LTE hiện được đặt"
+
+msgid "Currently set 5G SA bands"
+msgstr "Hiện đã đặt băng tần 5G SA"
+
+msgid "Currently set 5G NSA bands"
+msgstr "Hiện đã thiết lập các băng tần 5G NSA"
+
+msgid "Preferred LTE/5G Bands"
+msgstr "Ưu tiên băng tần LTE/5G"
+
+msgid "Supported LTE bands"
+msgstr "Các băng tần LTE được hỗ trợ"
+
+msgid "Supported 5G SA bands"
+msgstr "Các băng tần 5G SA được hỗ trợ"
+
+msgid "Supported 5G NSA bands"
+msgstr "Hỗ trợ băng tần 5G NSA"
+
+msgid "5G bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
+msgstr "Không thể đọc được băng tần 5G. Kiểm tra xem modem của bạn có hỗ trợ công nghệ này hay không và nó có nằm trong danh sách modem được hỗ trợ hay không."
+
+msgid "LTE bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
+msgstr "Không thể đọc các băng tần LTE. Kiểm tra xem modem của bạn có hỗ trợ công nghệ này hay không và nó có nằm trong danh sách modem được hỗ trợ hay không."
+
+msgid ""
+"Configuration modem frequency bands. More "
+"thông tin về ứng dụng modemband trên diễn đàn %seko.one.pl%s."
+msgstr ""
+"Konfiguracja preferowanych pasm modemu. Więcej "
+  "thông tin về ứng dụng modemband trên diễn đàn."
+
+msgid "LTE Bands Configuration"
+msgstr "Cấu hình băng tần LTE"
+
+msgid "5G SA Bands Configuration"
+msgstr "Cấu hình băng tần 5G SA"
+
+msgid "5G NSA Bands Configuration"
+msgstr "Cấu hình băng tần 5G NSA"
+
+msgid "Preferred bands settings"
+msgstr "Cài đặt băng tần ưa thích"
+
+msgid "Modification of the bands"
+msgstr "Sửa đổi băng tần"
+
+msgid "Modem information"
+msgstr "Thông tin modem"
+
+msgid "The new bands settings have been sent to the modem. If the changes are not visible, a restart of the connection, modem or router may be required."
+msgstr "Cài đặt băng tần mới đã được gửi tới modem. Nếu không thấy thay đổi, bạn có thể cần phải khởi động lại kết nối, modem hoặc bộ định tuyến của mình."
+
+msgid "Apply changes"
+msgstr "Áp dụng các thay đổi"
+
+msgid "Restore"
+msgstr "Khôi phục"
+
+msgid "Please select a band(s)"
+msgstr "Vui lòng chọn (các) băng tần"
+
+msgid "Bands configuration"
+msgstr "Cấu hình băng tần"
+
+msgid "Restore default bands"
+msgstr "Khôi phục các băng tần mặc định"
+
+msgid "Waiting for device..."
+msgstr "Đang chờ thiết bị..."
+
+msgid "Rebooting…"
+msgstr "Đang khởi động lại…"
+
+msgid "Perform reboot"
+msgstr "Thực hiện khởi động lại"
+
+msgid "Restart"
+msgstr "Khởi động lại kết nối"
+
+msgid "Reboot"
+msgstr "Khởi động lại thiết bị"
+
+msgid "Refresh"
+msgstr "Làm mới lại"
+
+msgid "Do you really want to restart the device?"
+msgstr "Bạn có chắc chắn muốn khởi động lại thiết bị của mình không?"
+
+msgid "Additional options"
+msgstr "Tùy chọn bổ sung"
+
+msgid "Select the preferred band(s) for the modem."
+msgstr "Chọn (các) băng tần ưa thích cho modem của bạn."
+
+msgid "Do you really want to set up all possible bands for the modem?"
+msgstr "Bạn có chắc chắn muốn đặt tất cả các băng tần có thể có cho modem của mình không?"
+
+msgid "Preferred bands"
+msgstr "Băng tần ưa thích"
+
+msgid "Configuration"
+msgstr "Cấu hình"
+
+msgid "Configuration modemband"
+msgstr "Cấu hình modem"
+
+msgid "Configuration panel for modemband and gui application."
+msgstr "Bảng cài đặt cho ứng dụng modemband và giao diện người dùng."
+
+msgid "Interface"
+msgstr "Giao diện"
+
+msgid "Network interface for Internet access."
+msgstr "Một giao diện mạng để truy cập Internet."
+
+msgid "WAN restart after making changes to bands."
+msgstr "WAN khởi động lại sau khi thực hiện thay đổi băng tần."
+
+msgid "Modem restart"
+msgstr "Khởi động lại modem"
+
+msgid "Modem restart after making changes to bands."
+msgstr "Khởi động lại modem sau khi thực hiện thay đổi băng tần."
+
+msgid "Restart with AT command"
+msgstr "Khởi động lại bằng lệnh AT"
+
+msgid "AT command to restart the modem."
+msgstr "Lệnh AT để khởi động lại modem."
+
+msgid "Port for communication with the modem"
+msgstr "Cổng giao tiếp với modem"
+
+msgid "Please select a port"
+msgstr "Vui lòng chọn một cổng"
+
+msgid "Select one of the available ttyUSBX ports."
+msgstr "Chọn một trong các cổng ttyUSBX có sẵn."
+
+msgid "No supported modem was found, quitting..."
+msgstr "Không tìm thấy modem được hỗ trợ, đang thoát..."
+
+msgid "Port not found, quitting..."
+msgstr "Không tìm thấy cổng, đang hoàn tất công việc..."
+
+msgid "Additional options useful for modem configuration."
+msgstr "Các tùy chọn bổ sung hữu ích khi cấu hình modem."
+
+msgid "Connection / router restart"
+msgstr "Khởi động lại kết nối/bộ định tuyến"
+
+msgid "Hint: The name of the WAN section can be changed in the package settings panel."
+msgstr "Gợi ý: Bạn có thể thay đổi tên của phần WAN trong bảng cài đặt gói."
+
+msgid "LTE band aggregation at UL (upload)"
+msgstr "Tổng hợp các băng tần LTE trong UL (tải lên)"
+
+msgid "No supported modem / router was found..."
+msgstr "Không tìm thấy modem/bộ định tuyến được hỗ trợ..."
+
+msgid "Hint: Option dedicated to the ZTE MF286D router."
+msgstr "Gợi ý: Tùy chọn dành riêng cho bộ định tuyến ZTE MF286D."
+
+msgid "Enable aggregation"
+msgstr "Bật tổng hợp"
+
+msgid "Disable aggregation"
+msgstr "Tắt tổng hợp"
+
+msgid "Disable"
+msgstr "Tắt"
+
+msgid "Enable"
+msgstr "Bật"
+
+msgid "Turn off notifications"
+msgstr "Tắt thông báo"
+
+msgid "Appearance and action settings"
+msgstr "Cài đặt giao diện"
+
+msgid "Checking this option disables the notification that appears every time the bands are changed."
+msgstr "Việc chọn tùy chọn này sẽ tắt thông báo xuất hiện bất cứ khi nào băng tần thay đổi."
+
+msgid "Modem settings template"
+msgstr "Mẫu cài đặt modem"
+
+msgid "Modem template configuration"
+msgstr "Cấu hình mẫu modem"
+
+msgid "Settings panel for the modemband application that allows you to customize the package for your modem."
+msgstr "Bảng cài đặt cho ứng dụng modemband cho phép bạn điều chỉnh gói phù hợp với modem của mình."
+
+msgid "Edit script"
+msgstr "Chỉnh sửa kịch bản"
+
+msgid "Supported bands depend on the region in which the modem operates. By modifying the DEFAULT_LTE_BANDS variable, you can easily adapt the package to your modem."
+msgstr "Các băng tần được hỗ trợ tùy thuộc vào khu vực mà modem hoạt động. Bằng cách sửa đổi biến DEFAULT_LTE_BANDS, bạn có thể dễ dàng điều chỉnh gói cho phù hợp với modem."
+
+msgid "Waiting to read data from the modem..."
+msgstr "Đang chờ đọc dữ liệu từ modem..."
+
+msgid "Edit"
+msgstr "Biên tập"
+
+msgid "Template loaded"
+msgstr "Đã tải mẫu"
+
+msgid "Refresh the view"
+msgstr "Làm mới chế độ xem"
+
+msgid "Reload"
+msgstr "Tải lại"
+
+msgid "Select the modem settings file"
+msgstr "Chọn file cài đặt modem"
+
+msgid "Select the template assigned to the Vendor and ProdID of the modem."
+msgstr "Chọn mẫu được gán cho nhà cung cấp của bạn và ProdID của modem của bạn."
+
+msgid "Band selection switch"
+msgstr "Công chọn băng tần"
+
+msgid "Deselect all"
+msgstr "Bỏ chọn tất cả"
+
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+msgid "Bands are disabled..."
+msgstr "Các băng tần đã tắt..."
+

@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+"Language: vi\n"
+"Last-Translator: alextuldi - From OpenWrt forum\n"
+
+msgid "Xwan"
+msgstr "Đa quay số "
+
+msgid "Xwan Settings"
+msgstr "Cài đặt đa quay số"
+
+msgid "Enable xwan"
+msgstr "Bật đa quay số"
+
+msgid "multiwan on single interface"
+msgstr "Một cổng mạng quay số nhiều lần"
+
+msgid "Number of xwan"
+msgstr "Có bao nhiêu quay số"
+
+msgid "Auto balanced setup"
+msgstr "Tự động cân bằng tải và lớp phủ"

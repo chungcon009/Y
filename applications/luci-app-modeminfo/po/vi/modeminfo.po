@@ -1,0 +1,140 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Modem"
+msgstr "Modem"
+
+msgid "Modeminfo"
+msgstr "Thông tin modem"
+
+msgid "Network"
+msgstr "Mạng"
+
+msgid "Hardware"
+msgstr "Phần cứng"
+
+msgid "Setup"
+msgstr "Cài đặt"
+
+msgid "Modeminfo: Network"
+msgstr "Thông tin modem: Mạng"
+
+msgid "No Registration"
+msgstr "Không đăng ký"
+
+msgid "Registered"
+msgstr "Đăng ký"
+
+msgid "Searching"
+msgstr "Đang tìm kiếm"
+
+msgid "Denied"
+msgstr "Từ chối"
+
+msgid "Unknown"
+msgstr "không xác định"
+
+msgid "Roaming"
+msgstr "Chuyển vùng"
+
+msgid "No Data"
+msgstr "Không có dữ liệu"
+
+msgid "Network/Band/Bandwidth"
+msgstr "Mạng/Băng tần/Băng thông"
+
+msgid "Network/Band"
+msgstr "Mạng/Băng tần"
+
+msgid "Cellular network"
+msgstr "Mạng di động"
+
+msgid "Operator"
+msgstr "Nhà điều hành"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Modeminfo: Hardware"
+msgstr "Thông tin modem: Phần cứng"
+
+msgid "Hardware and sim-card info."
+msgstr "Thông tin phần cứng và thẻ sim."
+
+msgid "Device"
+msgstr "Thiết bị"
+
+msgid "Firmware"
+msgstr "Phần sụn"
+
+msgid "Chiptemp"
+msgstr "Nhiệt độ"
+
+msgid "In automatic mode detect first answered DATA port."
+msgstr "Ở chế độ tự động, tìm cổng dữ liệu phản hồi đầu tiên."
+
+msgid "Please select a port"
+msgstr "Vui lòng chọn một cổng"
+
+msgid "Modeminfo: Configuration"
+msgstr "Thông tin modem: Cấu hình"
+
+msgid "Configuration panel of Modeminfo."
+msgstr "Bảng cấu hình của Modeminfo."
+
+msgid "Use QMI"
+msgstr "Sử dụng QMII"
+
+msgid "Get modem data via qmicli (experimental). Require install qmi-utils."
+msgstr "Nhận dữ liệu modem qua qmicli (thử nghiệm). Yêu cầu cài đặt qmi-utils."
+
+msgid "Data port"
+msgstr "Cổng dữ liệu"
+
+msgid "Select serial port."
+msgstr "Chọn cổng nối tiếp."
+
+msgid "Select qmi port."
+msgstr "Chọn cổng qmi."
+
+msgid "Show decimal"
+msgstr "Hiển thị ở dạng thập phân"
+
+msgid "Show LAC and CID in decimal."
+msgstr "Hiển thị LAC và CID ở dạng thập phân."
+
+msgid "Get device hardware name via mmcli utility if aviable."
+msgstr "Nhận tên phần cứng thiết bị thông qua tiện ích mmcli nếu có."
+
+msgid "Name via mmcli"
+msgstr "Tên modem qua mmcli"
+
+msgid "QMI proxy"
+msgstr "proxy QMI"
+
+msgid "Enable qmi-proxy mode."
+msgstr "Kích hoạt chế độ proxy."
+
+msgid "Index page"
+msgstr "Trang mục lục"
+
+msgid "Short info on Overview page"
+msgstr "Thông tin tóm tắt về mạng trên trang chính"
+
+msgid "sec"
+msgstr "Giây"
+
+msgid "none"
+msgstr "KHÔNG"
+
+msgid "Interval"
+msgstr "Khoảng thời gian"
+
+msgid "Poll interval data"
+msgstr "Khoảng thời gian cập nhật dữ liệu"
+
+msgid "General option"
+msgstr "Cài đặt chung"
+
+msgid "Devices setup"
+msgstr "Cài đặt thiết bị"
